@@ -31,12 +31,12 @@ Hint: You may want to explore other enumeration methods from the MDN documentati
 Cinema:
 
 - should have a collection of films
-- should be able to get a list of film titles
-- should be able to find a film by title
-- should be able to filter films by genre
-- should be able to check whether there are some films from a particular year (`true`/`false`)
-- should be able to check whether all films are over a particular length (`true`/`false`)
-- should be able to calculate total running time of all films
+- should be able to get a list of film titles (map)
+- should be able to find a film by title (find)
+- should be able to filter films by genre (filter)
+- should be able to check whether there are some films from a particular year (`true`/`false`) (filter)
+- should be able to check whether all films are over a particular length (`true`/`false`) (filter)
+- should be able to calculate total running time of all films (reduce)
 
 ### Extensions
 
